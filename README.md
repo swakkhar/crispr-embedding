@@ -6,7 +6,9 @@ for the prediction of CRISPR/Cas9 off-targets while implementing DNA k-mer embed
 CRISPR-Embedding with 5-fold cross validation, an average accuracy of 94.07% has been realized. Furthermore, comparison with other state-of-the-art methods has clearly showed improved off-target activity prediction in case of CRISPR-Embedding. Codes and materials of CRISPR-Embedding is available at: https://github.com/swakkhar/crispr-embedding.
 
 ### Instructions
-- Load the ipynb file. Fix the paths for the datasets.
+- Load the ipynb file. (Use local installation of Anaconda or Google Colab)
+- Fix the paths for the datasets.
+- Run the script to train the model and get results.
 
 ### For details on the parameters and results have a look at the draft of the paper
 [draft of the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4071629)
