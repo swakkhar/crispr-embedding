@@ -9,4 +9,4 @@ CRISPR-Embedding with 5-fold cross validation, an average accuracy of 94.07% has
 - Load the ipynb file. Fix the paths for the datasets.
 
 ### For details on the parameters and results have a look at the draft of the paper
-[draft of the paper]([https://www.example.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4071629))
+[draft of the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4071629)
